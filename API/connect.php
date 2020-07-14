@@ -1,5 +1,5 @@
 <?php
-
+	this text was added
     class DataBaseConnector{
         private $serverName = "localhost";
         private $connectionOptions = array(
